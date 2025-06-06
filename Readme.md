@@ -105,3 +105,12 @@ Execute a test query in your local Hasura console to verify that the setup is su
 Once you've verified everything, commit your metadata and configuration files to version control to prepare for production builds.
 
 ---
+
+Reference:
+
+![Notepad - Frame 9](https://github.com/user-attachments/assets/08277549-8f26-4e48-a563-146806a39bd3)
+
+
+
+
+
