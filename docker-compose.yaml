@@ -1,0 +1,9 @@
+version: "3.6"
+services:
+  postgresschema:
+    image: postgres:12
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: postgrespasswordschema
